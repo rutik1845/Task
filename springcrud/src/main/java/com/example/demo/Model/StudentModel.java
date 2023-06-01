@@ -10,7 +10,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name="employeee")
+@Table(name="Student")
 @EnableJpaAuditing
 public class StudentModel {
 	
